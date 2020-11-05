@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Mehdi\\Desktop\\if\\OrderService\\OrderService\\OrderService.Tests\\OrderService.Tests.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Mehdi\\Desktop\\if\\OrderService\\OrderService\\OrderService.Tests\\OrderService.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Mehdi\\Desktop\\if\\OrderService\\OrderService\\OrderService.Tests\\OrderService.Tests.csproj",
+        "projectName": "OrderService.Tests",
+        "projectPath": "c:\\Users\\Mehdi\\Desktop\\if\\OrderService\\OrderService\\OrderService.Tests\\OrderService.Tests.csproj",
+        "packagesPath": "C:\\Users\\Mehdi\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Mehdi\\Desktop\\if\\OrderService\\OrderService\\OrderService.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mehdi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "c:\\Users\\Mehdi\\Desktop\\if\\OrderService\\OrderService\\OrderService\\OrderService.csproj": {
+                "projectPath": "c:\\Users\\Mehdi\\Desktop\\if\\OrderService\\OrderService\\OrderService\\OrderService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\Mehdi\\Desktop\\if\\OrderService\\OrderService\\OrderService\\OrderService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Mehdi\\Desktop\\if\\OrderService\\OrderService\\OrderService\\OrderService.csproj",
+        "projectName": "OrderService",
+        "projectPath": "c:\\Users\\Mehdi\\Desktop\\if\\OrderService\\OrderService\\OrderService\\OrderService.csproj",
+        "packagesPath": "C:\\Users\\Mehdi\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Mehdi\\Desktop\\if\\OrderService\\OrderService\\OrderService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mehdi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

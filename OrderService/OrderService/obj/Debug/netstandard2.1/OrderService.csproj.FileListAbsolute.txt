@@ -1,0 +1,9 @@
+c:\Users\Mehdi\Desktop\if\OrderService\OrderService\OrderService\bin\Debug\netstandard2.1\OrderService.deps.json
+c:\Users\Mehdi\Desktop\if\OrderService\OrderService\OrderService\bin\Debug\netstandard2.1\OrderService.dll
+c:\Users\Mehdi\Desktop\if\OrderService\OrderService\OrderService\bin\Debug\netstandard2.1\OrderService.pdb
+c:\Users\Mehdi\Desktop\if\OrderService\OrderService\OrderService\obj\Debug\netstandard2.1\OrderService.csprojAssemblyReference.cache
+c:\Users\Mehdi\Desktop\if\OrderService\OrderService\OrderService\obj\Debug\netstandard2.1\OrderService.AssemblyInfoInputs.cache
+c:\Users\Mehdi\Desktop\if\OrderService\OrderService\OrderService\obj\Debug\netstandard2.1\OrderService.AssemblyInfo.cs
+c:\Users\Mehdi\Desktop\if\OrderService\OrderService\OrderService\obj\Debug\netstandard2.1\OrderService.csproj.CoreCompileInputs.cache
+c:\Users\Mehdi\Desktop\if\OrderService\OrderService\OrderService\obj\Debug\netstandard2.1\OrderService.dll
+c:\Users\Mehdi\Desktop\if\OrderService\OrderService\OrderService\obj\Debug\netstandard2.1\OrderService.pdb

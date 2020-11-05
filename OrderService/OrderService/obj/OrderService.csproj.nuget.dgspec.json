@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Mehdi\\Desktop\\if\\OrderService\\OrderService\\OrderService\\OrderService.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Mehdi\\Desktop\\if\\OrderService\\OrderService\\OrderService\\OrderService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Mehdi\\Desktop\\if\\OrderService\\OrderService\\OrderService\\OrderService.csproj",
+        "projectName": "OrderService",
+        "projectPath": "c:\\Users\\Mehdi\\Desktop\\if\\OrderService\\OrderService\\OrderService\\OrderService.csproj",
+        "packagesPath": "C:\\Users\\Mehdi\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Mehdi\\Desktop\\if\\OrderService\\OrderService\\OrderService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mehdi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
