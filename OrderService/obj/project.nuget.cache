@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hj5HnsmLIi9tL730+i/sI8opFtPQdAC7QYjW5hCgO+8rwZ1sTdbjDIyDcEruj7P1RfbrK4cT/xjNSFoGT5r7FQ==",
+  "success": true,
+  "projectFilePath": "h:\\mehdi\\interview\\if\\OrderService\\OrderService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adak\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

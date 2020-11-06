@@ -20,7 +20,7 @@ namespace OrderService.Tests
             numeralDiscountNumber: 10);
             var orderlines=new List<OrderLine>();
             orderlines.Add(new OrderLine(MotorBasic, 1));
-            orderlines.Add(new OrderLine(Disability, 10));
+            //orderlines.Add(new OrderLine(Disability, 10));
             order.AddLines(orderlines);
             var actual = order.GenerateReceipt(Factory.RecieptType.Json);
 

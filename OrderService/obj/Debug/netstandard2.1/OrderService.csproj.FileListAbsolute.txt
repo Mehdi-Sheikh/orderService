@@ -1,0 +1,18 @@
+F:\own\interview\IF insurace\OrderService\OrderService\OrderService\bin\Debug\netstandard2.1\OrderService.deps.json
+F:\own\interview\IF insurace\OrderService\OrderService\OrderService\bin\Debug\netstandard2.1\OrderService.dll
+F:\own\interview\IF insurace\OrderService\OrderService\OrderService\bin\Debug\netstandard2.1\OrderService.pdb
+F:\own\interview\IF insurace\OrderService\OrderService\OrderService\obj\Debug\netstandard2.1\OrderService.csprojAssemblyReference.cache
+F:\own\interview\IF insurace\OrderService\OrderService\OrderService\obj\Debug\netstandard2.1\OrderService.AssemblyInfoInputs.cache
+F:\own\interview\IF insurace\OrderService\OrderService\OrderService\obj\Debug\netstandard2.1\OrderService.AssemblyInfo.cs
+F:\own\interview\IF insurace\OrderService\OrderService\OrderService\obj\Debug\netstandard2.1\OrderService.csproj.CoreCompileInputs.cache
+F:\own\interview\IF insurace\OrderService\OrderService\OrderService\obj\Debug\netstandard2.1\OrderService.dll
+F:\own\interview\IF insurace\OrderService\OrderService\OrderService\obj\Debug\netstandard2.1\OrderService.pdb
+h:\mehdi\interview\if\OrderService\bin\Debug\netstandard2.1\OrderService.deps.json
+h:\mehdi\interview\if\OrderService\bin\Debug\netstandard2.1\OrderService.dll
+h:\mehdi\interview\if\OrderService\bin\Debug\netstandard2.1\OrderService.pdb
+h:\mehdi\interview\if\OrderService\obj\Debug\netstandard2.1\OrderService.csprojAssemblyReference.cache
+h:\mehdi\interview\if\OrderService\obj\Debug\netstandard2.1\OrderService.AssemblyInfoInputs.cache
+h:\mehdi\interview\if\OrderService\obj\Debug\netstandard2.1\OrderService.AssemblyInfo.cs
+h:\mehdi\interview\if\OrderService\obj\Debug\netstandard2.1\OrderService.csproj.CoreCompileInputs.cache
+h:\mehdi\interview\if\OrderService\obj\Debug\netstandard2.1\OrderService.dll
+h:\mehdi\interview\if\OrderService\obj\Debug\netstandard2.1\OrderService.pdb

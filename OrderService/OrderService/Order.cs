@@ -39,7 +39,8 @@ namespace OrderService
         /// <param name="orderLines">A list of orderlines</param>
         public void AddLines(List<OrderLine> orderLines)
         {
-            _orderLines.AddRange(orderLines);
+            _orderLines=orderLines;
+            // _orderLines.AddRange(orderLines);
             Calculate();
         }
 
